@@ -75,4 +75,4 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 [issues-shield]: https://img.shields.io/github/issues/Ana150/panama-beer-website.svg?style=for-the-badge
 [issues-url]: https://github.com/Ana150/panama-beer-website/issues
 [license-shield]: https://img.shields.io/github/license/Ana150/panama-beer-website.svg?style=for-the-badge
-[license-url]: https://github.com/Ana150/panama-beer-website/blob/master/LICENSE.txt# panama-beer-back
+[license-url]: https://github.com/Ana150/panama-beer-website/blob/master/LICENSE.txt
